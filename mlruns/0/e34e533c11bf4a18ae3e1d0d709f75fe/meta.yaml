@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e34e533c11bf4a18ae3e1d0d709f75fe/artifacts
+end_time: 1748848770436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e34e533c11bf4a18ae3e1d0d709f75fe
+run_name: serious-rat-380
+run_uuid: e34e533c11bf4a18ae3e1d0d709f75fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748848761694
+status: 4
+tags: []
+user_id: hts

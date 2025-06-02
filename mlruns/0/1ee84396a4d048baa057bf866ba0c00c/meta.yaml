@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1ee84396a4d048baa057bf866ba0c00c/artifacts
+end_time: 1748848468712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ee84396a4d048baa057bf866ba0c00c
+run_name: popular-quail-181
+run_uuid: 1ee84396a4d048baa057bf866ba0c00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748848459263
+status: 4
+tags: []
+user_id: hts

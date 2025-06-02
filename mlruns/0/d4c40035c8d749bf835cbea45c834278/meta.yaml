@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d4c40035c8d749bf835cbea45c834278/artifacts
+end_time: 1748848964117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4c40035c8d749bf835cbea45c834278
+run_name: exultant-stoat-135
+run_uuid: d4c40035c8d749bf835cbea45c834278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748848955499
+status: 4
+tags: []
+user_id: hts
